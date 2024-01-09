@@ -1,9 +1,8 @@
 import React from 'react'
-import TextDemo from './src/TextDemo'
 
 const App = () => (
   <>
-    <TextDemo />
+    {/* <TextDemo /> */}
     {/* <ViewDemo /> */}
     {/* <ButtonDemo /> */}
     {/* <SwitchDemo /> */}
