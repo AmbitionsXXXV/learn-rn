@@ -1,9 +1,10 @@
 import React from 'react'
-import ButtonDemo from './src/Button'
+import SwitchDemo from './src/SwitchDemo'
 
 const App = () => (
   <>
-    <ButtonDemo />
+    {/* <ButtonDemo /> */}
+    <SwitchDemo />
   </>
 )
 
