@@ -1,9 +1,10 @@
 import React from 'react'
-import ViewDemo from './src/ViewDemo'
+import TextDemo from './src/TextDemo'
 
 const App = () => (
   <>
-    <ViewDemo />
+    <TextDemo />
+    {/* <ViewDemo /> */}
     {/* <ButtonDemo /> */}
     {/* <SwitchDemo /> */}
   </>
